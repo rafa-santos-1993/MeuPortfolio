@@ -11,6 +11,10 @@ body {
   background-attachment: fixed;
 }
 
+.aparece {
+  opacity: 1;
+}
+
 .nav-link {
   color: #961c1c;
 }
